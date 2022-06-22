@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I’m Alvaro Gamez Chavez</h1>
-<h3 align="center">persistent and self sufficient Full-Stack developer from Durango, Dgo, M</h3>
+<h3 align="center">Persistent and self sufficient Full-Stack developer from Durango, M</h3>
 
 - ✨ I graduated from the SoyHenry bootcamp. I am a persistent, passionate and stable person is jobs that can build real life applications using technologies like JavaScript, React, Redux, Express, SQL, and give them a unique style by leaning on what they give me, giving input on improvements
 
