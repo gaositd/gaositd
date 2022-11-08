@@ -25,4 +25,4 @@ gaositd is a ✨ special ✨ repository because its `README.md` (this file) appe
 You can click the Preview link to take a look at your changes.
 --->
 <p>I will upload my work one by one, on github pages when possible.</p>
-<a href="https://gaositd.github.io/formulario_dinamico/">Formulario Dinámico</a>
+<a href="https://gaositd.github.io/formulario_dinamico/" target="_blank">Formulario Dinámico</a>
